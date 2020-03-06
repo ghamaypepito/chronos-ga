@@ -1,0 +1,177 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Darwin
+Software 		: nginx/1.16.0
+MySQL version 		: 8.0.15
+PHP Version 		: 7.3.5
+PHP Max Input Vars 	: 4000
+PHP Max Post Size 	: 1000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 1200
+Max Upload Size 	: 300 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 05:59:58 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 05:59:58 UTC
+
+---
+
+2. Importing "XML"  - 06:00:00 UTC
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Darwin
+Software 		: nginx/1.16.0
+MySQL version 		: 8.0.15
+PHP Version 		: 7.3.5
+PHP Max Input Vars 	: 4000
+PHP Max Post Size 	: 1000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 1200
+Max Upload Size 	: 300 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 06:02:46 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 06:02:46 UTC
+
+---
+
+2. Importing "XML"  - 06:02:47 UTC
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: Darwin
+Software 		: nginx/1.16.0
+MySQL version 		: 8.0.15
+XML Reader 		: Yes
+PHP Version 		: 7.3.5
+PHP Max Input Vars 	: 4000
+PHP Max Post Size 	: 1000M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 1200
+Max Upload Size 	: 300 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 06:04:20 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+Inserted WP Form 12
+Inserted WP Form 13
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"2.0.0","theme-auto-version":"2.0.1","transparent-header-enable":0,"button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#f9520b","button-bg-h-color":"#303030","button-radius":"3","button-v-padding":10,"button-h-padding":40,"site-content-width":1200,"header-layouts":"header-main-layout-1","disable-primary-nav":false,"header-main-rt-section":"widget","header-main-rt-section-html":"<button>Contact Us<\/button>","header-main-sep":"0","header-main-sep-color":"#f2f2f2","header-main-layout-width":"content","primary-submenu-border-divider":"","primary-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"primary-submenu-b-color":"#eaeaea","primary-submenu-item-border":1,"primary-submenu-item-b-color":"#eaeaea","header-main-submenu-container-animation":"","header-main-menu-label-divider":"","mobile-header-breakpoint":"","mobile-header-toggle-target":"icon","header-main-menu-label":"Explore More","hide-custom-menu-mobile":1,"header-display-outside-menu":false,"header-main-menu-align":"stack","mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"","mobile-header-toggle-btn-border-radius":"","mobile-header-more-feature-divider":"","mobile-header-more-feature-description":"","different-retina-logo":false,"ast-header-retina-logo":"","different-mobile-logo":false,"mobile-header-logo":"","ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":""},"ast-site-logo-divider":"","display-site-title":false,"display-site-tagline":0,"logo-title-inline":0,"ast-site-icon-divider":"","blog-post-content":"excerpt","blog-post-structure":["image","title-meta"],"blog-meta":["comments","category","author"],"ast-styling-section-blog-width":"","blog-width":"default","blog-max-width":1200,"ast-blog-more-feature-divider":"","ast-blog-more-feature-description":"","blog-single-post-structure":["single-image","single-title-meta"],"blog-single-meta":["comments","category","author"],"ast-styling-section-single-blog-layouts":"","blog-single-width":"default","blog-single-max-width":1200,"ast-blog-single-more-feature-divider":"","ast-blog-single-more-feature-description":"","site-sidebar-layout":"no-sidebar","single-page-sidebar-layout-divider":"","single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","divider-section-sidebar-width":"","site-sidebar-width":30,"site-sidebar-width-description":"","site-content-layout-divider":"","site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","site-layout-outside-bg-obj":{"background-color":""},"ast-container-more-feature-divider":"page-builder","ast-container-more-feature-description":"","footer-sml-layout":"footer-sml-layout-1","section-ast-small-footer-layout-info":"","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | Powered by [site_title]","footer-sml-section-2":"","footer-sml-section-2-credit":"Copyright &copy; [current_year] [site_title] | Powered by [theme_author]","section-ast-small-footer-typography":"","footer-sml-divider":"1","footer-sml-divider-color":"#545454","footer-layout-width":"content","footer-adv":"layout-4","ast-footer-widget-more-feature-divider":"","ast-footer-widget-more-feature-description":"","theme-color":"#f9520b","link-color":"#f9520b","text-color":"#303030","link-h-color":"#303030","divider-outside-bg-color":"","footer-color":"","footer-link-color":"","footer-link-h-color":"","divider-footer-image":"","footer-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-wgt-title-color":"","footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-background-divider":"","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"divider-section-archive-summary-box-typo":"","font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-archive-typo-archive-title":"","font-size-page-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-blog-typography-more-feature-divider":"","ast-blog-typography-more-feature-description":"","divider-base-typo":"","body-font-family":"'Lato', sans-serif","body-font-variant":"400","body-font-weight":"400","body-text-transform":"","font-size-body":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","para-margin-bottom":"","divider-headings-typo":"","headings-font-family":"'Ubuntu', sans-serif","headings-font-variant":"400","headings-font-weight":"400","headings-text-transform":"capitalize","divider-section-h1":"","font-size-h1":{"desktop":"45","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h2":"","font-size-h2":{"desktop":42,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h3":"","font-size-h3":{"desktop":"35","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h4":"","font-size-h4":{"desktop":20,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h5":"","font-size-h5":{"desktop":18,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-h6":"","font-size-h6":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-content-typography-more-feature-divider":"","ast-content-typography-more-feature-description":"","divider-section-header-typo-title":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"divider-section-header-typo-tagline":"","font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-header-typography-more-feature-divider":"","ast-header-typography-more-feature-description":"","divider-section-header-single-title":"","font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"ast-sngle-blog-typography-more-feature-divider":"","ast-sngle-blog-typography-more-feature-description":"","wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/326/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"primary menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":2,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 14 - attachment - construction-image01
+Inserted - Post 18 - attachment - construction-icon03
+Inserted - Post 52 - attachment - construction-icon04-1
+Inserted - Post 54 - attachment - construction-icon05
+Inserted - Post 56 - attachment - construction-icon06
+Inserted - Post 57 - attachment - construction-icon07
+Inserted - Post 58 - attachment - construction-icon08
+Inserted - Post 59 - attachment - construction-icon09
+Inserted - Post 205 - attachment - construction-image34
+Inserted - Post 246 - attachment - construction-icon20
+Inserted - Post 276 - attachment - construction-image40
+Inserted - Post 277 - attachment - construction-image41
+Inserted - Post 298 - attachment - construction-image43
+Inserted - Post 307 - attachment - construction-image46
+Inserted - Post 308 - attachment - construction-image47
+Inserted - Post 366 - attachment - construction-icon25
+Inserted - Post 368 - attachment - construction-icon26-1
+Inserted - Post 369 - attachment - construction-icon27
+Inserted - Post 370 - attachment - construction-icon28
+Inserted - Post 399 - attachment - construction-image32-1
+Inserted - Post 430 - attachment - testimmonial5-1
+Inserted - Post 466 - attachment - Marble platform in front of the city skyline
+Inserted - Post 474 - attachment - construction-image22-5
+Inserted - Post 475 - attachment - construction-image22-6
+Inserted - Post 476 - attachment - construction-image22-7
+Inserted - Post 494 - attachment - team
+Inserted - Post 504 - attachment - testimmonial5-3
+Inserted - Post 512 - attachment - construction-image51-1
+Inserted - Post 514 - attachment - construction-image51-3
+Inserted - Post 515 - attachment - construction-image51-4
+Inserted - Post 554 - attachment - construction-image48-1
+Inserted - Post 556 - attachment - construction-image45-1
+Inserted - Post 557 - attachment - construction-image45-2
+Inserted - Post 558 - attachment - construction-image45-3
+Inserted - Post 577 - attachment - testimonial-bg
+Inserted - Post 580 - attachment - construction-image52-1
+Inserted - Post 581 - attachment - construction-image52-2
+Inserted - Post 582 - attachment - construction-image52-3
+Inserted - Post 583 - attachment - construction-image52-4
+Inserted - Post 584 - attachment - construction-image52-5
+Inserted - Post 585 - brizy-project - Brizy Project
+Inserted - Post 5 - custom_css - astra
+Inserted - Post 330 - custom_css - astra-theme-child
+Inserted - Post 587 - custom_css - astra
+Inserted - Post 588 - attachment - construction-image52-6
+Inserted - Post 609 - attachment - construction-image44
+Inserted - Post 625 - attachment - construction-favicon01-free-img
+Inserted - Post 626 - attachment - construction-logo03-free-img
+Inserted - Post 676 - attachment - construction-logo04-free-img
+Inserted - Post 764 - attachment - construction-image38-2-free-img
+Inserted - Post 841 - custom_css - astra
+Inserted - Post 868 - attachment - construction-logo-free
+Inserted - Post 870 - attachment - construction-logo2-free
+Inserted - Post 871 - attachment - construction-logo-free
+Inserted - Post 933 - nav_menu_item - 
+Inserted - Post 934 - nav_menu_item - 
+Inserted - Post 938 - custom_css - astra
+Inserted - Post 959 - attachment - screenshot-fre-img
+Inserted - Post 988 - brizy-global-block - f0df5952256686ea80b67d5e19f1c79a
+Inserted - Post 989 - brizy-global-block - 738a31480dcbdd2da69519cf9735d6eb
+Inserted - Post 913 - page - Home
+Inserted - Post 921 - page - About
+Inserted - Post 925 - page - Services
+Inserted - Post 929 - page - Projects
+Inserted - Post 932 - page - Contact Us
+Inserted - Post 935 - nav_menu_item - 
+Inserted - Post 936 - nav_menu_item - 
+Inserted - Post 937 - nav_menu_item - 
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/construction-05\/wp-content\/uploads\/sites\/326\/2018\/09\/construction-logo-free.png","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":{"button":true,"google-map":true,"image":true,"slider":true,"post-carousel":true,"editor":true,"features":true,"social-media-buttons":true},"elementor_container_width":null,"elementor_cpt_support":null,"elementor_css_print_method":null,"elementor_default_generic_fonts":null,"elementor_disable_color_schemes":null,"elementor_disable_typography_schemes":null,"elementor_editor_break_lines":null,"elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":null,"elementor_scheme_color-picker]":null,"elementor_scheme_typography":null,"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}},"header-widget":{"astra-widget-social-profiles-3":{"title":"","list":[{"title":"facebook","link":"#","link-target":"same-page","nofollow":"disable","icon":"{\"name\":\"facebook-f\",\"path\":\"M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229\",\"viewbox\":\"0 0 264 512\"}"},{"title":"twitter","link":"#","link-target":"same-page","nofollow":"enable","icon":"{\"name\":\"twitter\",\"path\":\"M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z\",\"viewbox\":\"0 0 512 512\"}"},{"title":"google","link":"#","link-target":"same-page","nofollow":"enable","icon":"{\"name\":\"google-plus-g\",\"path\":\"M386.061 228.496c1.834 9.692 3.143 19.384 3.143 31.956C389.204 370.205 315.599 448 204.8 448c-106.084 0-192-85.915-192-192s85.916-192 192-192c51.864 0 95.083 18.859 128.611 50.292l-52.126 50.03c-14.145-13.621-39.028-29.599-76.485-29.599-65.484 0-118.92 54.221-118.92 121.277 0 67.056 53.436 121.277 118.92 121.277 75.961 0 104.513-54.745 108.965-82.773H204.8v-66.009h181.261zm185.406 6.437V179.2h-56.001v55.733h-55.733v56.001h55.733v55.733h56.001v-55.733H627.2v-56.001h-55.733z\",\"viewbox\":\"0 0 640 512\"}"},{"title":"linked","link":"#","link-target":"same-page","nofollow":"enable","icon":"{\"name\":\"linkedin-in\",\"path\":\"M100.3 448H7.4V148.9h92.9V448zM53.8 108.1C24.1 108.1 0 83.5 0 53.8S24.1 0 53.8 0s53.8 24.1 53.8 53.8-24.1 54.3-53.8 54.3zM448 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448h-.1z\",\"viewbox\":\"0 0 448.1 512\"}"}],"align":"inline","icon-style":"circle","color-type":"custom-color","icon-color":"#ffffff","bg-color":"#565656","icon-hover-color":"#ffffff","bg-hover-color":"#686868","width":"18","space_btn_icon_text":"","space_btn_social_profiles":"","display-title":false}},"advanced-footer-widget-1":{"media_image-1":{"attachment_id":"870","url":"https:\/\/websitedemos.net\/construction\/wp-content\/uploads\/2017\/09\/construction-logo2-free.png","title":"","size":"full","width":200,"height":36,"caption":"","alt":"","link_type":"none","link_url":"","image_classes":"","link_classes":"","link_rel":"","link_target_blank":false,"image_title":""},"text-2":{"title":"","text":"Natus eget occaecati, lobortis, vestibulum nam eros, risus lacinia lacus.Lorem accusantium.","filter":"content"},"astra-widget-social-profiles-2":{"title":"","align":"inline","icon-style":"circle","color-type":"custom-color","icon-color":"#565656","bg-color":"#ffffff","icon-hover-color":"#565656","bg-hover-color":"#efefef","width":"18","space_btn_icon_text":"","space_btn_social_profiles":"","display-title":false,"list":[{"title":"facebook","link":"#","link-target":"same-page","nofollow":"disable","icon":"{\"name\":\"facebook-f\",\"path\":\"M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229\",\"viewbox\":\"0 0 264 512\"}"},{"title":"twitter","link":"#","link-target":"same-page","nofollow":"enable","icon":"{\"name\":\"twitter\",\"path\":\"M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z\",\"viewbox\":\"0 0 512 512\"}"},{"title":"google","link":"#","link-target":"same-page","nofollow":"enable","icon":"{\"name\":\"google-plus-g\",\"path\":\"M386.061 228.496c1.834 9.692 3.143 19.384 3.143 31.956C389.204 370.205 315.599 448 204.8 448c-106.084 0-192-85.915-192-192s85.916-192 192-192c51.864 0 95.083 18.859 128.611 50.292l-52.126 50.03c-14.145-13.621-39.028-29.599-76.485-29.599-65.484 0-118.92 54.221-118.92 121.277 0 67.056 53.436 121.277 118.92 121.277 75.961 0 104.513-54.745 108.965-82.773H204.8v-66.009h181.261zm185.406 6.437V179.2h-56.001v55.733h-55.733v56.001h55.733v55.733h56.001v-55.733H627.2v-56.001h-55.733z\",\"viewbox\":\"0 0 640 512\"}"},{"title":"linked","link":"#","link-target":"same-page","nofollow":"enable","icon":"{\"name\":\"linkedin-in\",\"path\":\"M100.3 448H7.4V148.9h92.9V448zM53.8 108.1C24.1 108.1 0 83.5 0 53.8S24.1 0 53.8 0s53.8 24.1 53.8 53.8-24.1 54.3-53.8 54.3zM448 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448h-.1z\",\"viewbox\":\"0 0 448.1 512\"}"}]}},"advanced-footer-widget-2":{"text-3":{"title":"Contact Details","text":"","filter":"content"},"astra-widget-list-icons-2":{"title":"","space_btn_list":"35","space_btn_icon_text":"13","divider":"no","divider_style":"solid","divider_weight":"","divider_color":"","icon_color":"#f9520b","background_color":"","width":"20","list":[{"title":"125, Central Square,New York","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"map-marker-alt\",\"path\":\"M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z\",\"viewbox\":\"0 0 384 512\"}"},{"title":"91 123-456-7890\/91","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"phone-volume\",\"path\":\"M97.333 506.966c-129.874-129.874-129.681-340.252 0-469.933 5.698-5.698 14.527-6.632 21.263-2.422l64.817 40.513a17.187 17.187 0 0 1 6.849 20.958l-32.408 81.021a17.188 17.188 0 0 1-17.669 10.719l-55.81-5.58c-21.051 58.261-20.612 122.471 0 179.515l55.811-5.581a17.188 17.188 0 0 1 17.669 10.719l32.408 81.022a17.188 17.188 0 0 1-6.849 20.958l-64.817 40.513a17.19 17.19 0 0 1-21.264-2.422zM247.126 95.473c11.832 20.047 11.832 45.008 0 65.055-3.95 6.693-13.108 7.959-18.718 2.581l-5.975-5.726c-3.911-3.748-4.793-9.622-2.261-14.41a32.063 32.063 0 0 0 0-29.945c-2.533-4.788-1.65-10.662 2.261-14.41l5.975-5.726c5.61-5.378 14.768-4.112 18.718 2.581zm91.787-91.187c60.14 71.604 60.092 175.882 0 247.428-4.474 5.327-12.53 5.746-17.552.933l-5.798-5.557c-4.56-4.371-4.977-11.529-.93-16.379 49.687-59.538 49.646-145.933 0-205.422-4.047-4.85-3.631-12.008.93-16.379l5.798-5.557c5.022-4.813 13.078-4.394 17.552.933zm-45.972 44.941c36.05 46.322 36.108 111.149 0 157.546-4.39 5.641-12.697 6.251-17.856 1.304l-5.818-5.579c-4.4-4.219-4.998-11.095-1.285-15.931 26.536-34.564 26.534-82.572 0-117.134-3.713-4.836-3.115-11.711 1.285-15.931l5.818-5.579c5.159-4.947 13.466-4.337 17.856 1.304z\",\"viewbox\":\"0 0 384 512\"}"},{"title":"(002) 123-4567","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"mobile\",\"path\":\"M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z\",\"viewbox\":\"0 0 320 512\"}"},{"title":"Info@Example.Com","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"envelope\",\"path\":\"M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z\",\"viewbox\":\"0 0 512 512\"}"}]}},"advanced-footer-widget-3":{"text-4":{"title":"Get A Quote","text":"","filter":"content"},"text-5":{"title":"","text":"[wpforms id=\"984\"]","filter":true,"visual":true}},"advanced-footer-widget-4":{"text-6":{"title":"Important Links","text":"","filter":"content"},"astra-widget-list-icons-3":{"title":"","list":[{"0":"arr","title":"Who We Are","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"angle-right\",\"path\":\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z\",\"viewbox\":\"0 0 256 512\"}"},{"title":"About Company","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"angle-right\",\"path\":\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z\",\"viewbox\":\"0 0 256 512\"}"},{"title":"Services We Provide","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"angle-right\",\"path\":\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z\",\"viewbox\":\"0 0 256 512\"}"},{"title":"What We Have Done","link":"#","link-target":"same-page","nofollow":"enable","imageoricon":"icon","image":"","icon":"{\"name\":\"angle-right\",\"path\":\"M224.3 273l-136 136c-9.4 9.4-24.6 9.4-33.9 0l-22.6-22.6c-9.4-9.4-9.4-24.6 0-33.9l96.4-96.4-96.4-96.4c-9.4-9.4-9.4-24.6 0-33.9L54.3 103c9.4-9.4 24.6-9.4 33.9 0l136 136c9.5 9.4 9.5 24.6.1 34z\",\"viewbox\":\"0 0 256 512\"}"}],"space_btn_list":"35","space_btn_icon_text":"13","divider":"no","divider_style":"solid","divider_weight":"","divider_color":"","icon_color":"#f9520b","background_color":"","width":"20"}}}
+Complete 
+Batch Process Started!
+Astra Starter Sites - Importing Images for Blog name 'chronos' (1)
+---- Processing Images from Widgets -----
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/construction/wp-content/uploads/2017/09/construction-logo2-free.png
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Brizy" ----
+---- Processing Mapping - for Astra Pro ----
+---- Processing MISC ----
+Post ID: 936
+Post ID: 937
+Post ID: 933
+Post ID: 934
+Post ID: 935
+Batch Process Complete!
